@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Diabetes Elixir
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is about a diabetes center [Diabetes Elixir](https://beat-sugar-27e8e.web.app/).
 
 ## Available Scripts
 
