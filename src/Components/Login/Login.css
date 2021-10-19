@@ -1,0 +1,23 @@
+.login-form {
+  margin-top: 10rem;
+}
+.login-form h1 {
+  color: #501b1d;
+}
+/* .pwd-container {
+  position: relative;
+} */
+/* .pwd-container img {
+  cursor: pointer;
+  position: absolute;
+  width: 20px;
+  right: 8px;
+  top: 8px;
+} */
+
+.error-message {
+  color: rgb(236, 65, 65);
+}
+.side-link a {
+  color: #501b1d;
+}

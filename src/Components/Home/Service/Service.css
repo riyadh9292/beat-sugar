@@ -1,0 +1,25 @@
+.service-description {
+  font-family: "Lobster Two", cursive;
+}
+.service-description span > a {
+  color: #950101;
+}
+.card {
+  border: none !important;
+}
+.card-image {
+  border-radius: 50%;
+  padding: 10px;
+  transition: transform 0.5s;
+}
+.card:hover .card-image {
+  transform: scale(1.2);
+}
+.card:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.service-title {
+  color: #950101;
+}

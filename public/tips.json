@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "heading": " Limit sugary drinks",
+    "desc": "Sugary drinks like sodas, fruit juices, and sweetened teas are the primary source of added sugar in the American diet (1Trusted Source). Unfortunately, findings from several studies point to sugar-sweetened beverages increasing risk of heart disease and type 2 diabetes, even in people who are not carrying excess body fat (2Trusted Source). Sugar-sweetened beverages are also uniquely harmful for children, as they can contribute not only to obesity in children but also to conditions that usually do not develop until adulthood, like type 2 diabetes, high blood pressure, and non-alcoholic fatty liver disease (3Trusted Source, 4Trusted Source, 5Trusted Source)."
+  },
+  {
+    "id": "2",
+    "heading": " Eat nuts and seeds",
+    "desc": "Some people avoid nuts because they are high in fat. However, nuts and seeds are incredibly nutritious. They are packed with protein, fiber, and a variety of vitamins and minerals.Nuts may help you lose weight and reduce the risk of developing type 2 diabetes and heart disease.Additionally, one large observational study noted that a low intake of nuts and seeds was potentially linked to an increased risk of death from heart disease, stroke, or type 2 diabetes."
+  },
+  {
+    "id": "3",
+    "heading": " Avoid ultra-processed foods",
+    "desc": "Ultra-processed foods are foods containing ingredients that are significantly modified from their original form. They often contain additives like added sugar, highly refined oil, salt, preservatives, artificial sweeteners, colors, and flavors as wel."
+  },
+  {
+    "id": "4",
+    "heading": "Don’t fear coffee",
+    "desc": "Despite some controversy over it, coffee is loaded with health benefits.It’s rich in antioxidants, and some studies have linked coffee intake to longevity and a reduced risk of type 2 diabetes, Parkinson’s and Alzheimer’s diseases, and numerous other illnesses.The most beneficial intake amount appears to be 3–4 cups per day, although pregnant people should limit or avoid it completely because it has been linked to low birth weight "
+  },
+  {
+    "id": "5",
+    "heading": "Eat fatty fish",
+    "desc": "Fish is a great source of high-quality protein and healthy fat. This is particularly true of fatty fish, such as salmon, which is loaded with anti-inflammatory omega-3 fatty acids and various other nutrients.Studies show that people who eat fish regularly have a lower risk for several conditions, including heart disease, dementia, and inflammatory bowel disease."
+  },
+  {
+    "id": "6",
+    "heading": "Get enough sleep",
+    "desc": "The importance of getting enough quality sleep cannot be overstated.Poor sleep can drive insulin resistance, can disrupt your appetite hormones, and reduce your physical and mental performance.What’s more, poor sleep is one of the strongest individual risk factors for weight gain and obesity. People who do not get enough sleep tend to make food choices that are higher in fat, sugar, and calories, potentially leading to unwanted weight gain."
+  },
+  {
+    "id": "7",
+    "heading": "Feed your gut bacteria",
+    "desc": "The bacteria in your gut, collectively called the gut microbiota, are incredibly important for overall health.A disruption in gut bacteria is linked to some chronic diseases, including obesity and a myriad of digestive problems   ."
+  },
+  {
+    "id": "8",
+    "heading": "Stay hydrated",
+    "desc": "Hydration is an important and often overlooked marker of health. Staying hydrated helps ensure that your body is functioning optimally and that your blood volume is sufficient.Although there’s no set amount that everyone needs per day, aim to drink enough so that your thirst is adequately quenched."
+  },
+  {
+    "id": "9",
+    "heading": "Don’t eat heavily charred meats",
+    "desc": "Meat can be a nutritious and healthy part of your diet. It’s very high in protein and a rich source of nutrients.When you cook meat, try not to char or burn it. Additionally limit your consumption of red and processed meats like lunch meats and bacon as these are linked to overall cancer risk and colon cancer risk."
+  },
+  {
+    "id": "10",
+    "heading": "Avoid bright lights before sleep",
+    "desc": "When you’re exposed to bright lights — which contain blue light wavelengths — in the evening, it may disrupt your production of the sleep hormone melatonin.Some ways to help reduce your blue light exposure is to wear blue light blocking glasses — especially if you use a computer or other digital screen for long periods of time — and to avoid digital screens for 30 minutes to an hour before going to bed."
+  }
+]

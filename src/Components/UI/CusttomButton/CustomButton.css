@@ -1,0 +1,7 @@
+.custom-button {
+  background-color: #b2ac86;
+  color: #fbe9a1;
+}
+.custom-button:hover {
+  color: whitesmoke;
+}

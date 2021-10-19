@@ -1,23 +1,44 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter, Switch, Route } from "react-router-dom";
+import "./App.css";
+import About from "./Components/About/About";
+import HealthTips from "./Components/HealthTips/HealthTips";
+import Home from "./Components/Home/Home";
+import ServiceDetails from "./Components/Home/ServiceDetails/ServiceDetails";
+import Login from "./Components/Login/Login";
+import PageNotFound from "./Components/NotFound/PageNotFound";
+import Register from "./Components/Register/Register";
+import Footer from "./Components/Shared/Footer/Footer";
+import Navigation from "./Components/Shared/Navigation.js/Navigation";
+import { AuthContextProvider } from "./Context/Context";
+import PrivateRoute from "./PrivateRoute/PrivateRoute";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <AuthContextProvider>
+        <BrowserRouter>
+          <Navigation />
+          <Switch>
+            <Route exact path="/" component={Home} />
+            <Route path="/home" component={Home} />
+            <Route path="/login" component={Login} />
+            <Route path="/register" component={Register} />
+            {/* private routes */}
+            <PrivateRoute path="/health-tips">
+              <HealthTips />
+            </PrivateRoute>
+            <PrivateRoute path="/about">
+              <About />
+            </PrivateRoute>
+            {/* dynamic route */}
+            <PrivateRoute path="/service/:id">
+              <ServiceDetails />
+            </PrivateRoute>
+            <Route path="*" component={PageNotFound} />
+          </Switch>
+          <Footer />
+        </BrowserRouter>
+      </AuthContextProvider>
     </div>
   );
 }

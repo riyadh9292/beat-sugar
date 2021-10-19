@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1001",
+    "name": "Dr. Abdur Rahman",
+    "designation": "Chairman",
+    "specialize": "Endocrinologists",
+    "experience": "Special training and experience in treating people with diabetes",
+    "img": "https://signaturemd.com/wp-content/uploads/2014/07/fred-markham-md-400x400.png"
+  },
+  {
+    "id": "1002",
+    "name": "Dr. Jhahirul Alam",
+    "designation": "Physician",
+    "specialize": "Endocrinologists",
+    "experience": "Medical and Clinical Laboratory Technologists",
+    "img": "https://al-tabeeb.net/storage/alatbaaa/doctor-9-400x400.png"
+  },
+  {
+    "id": "1003",
+    "name": "Dr. Sirin Sultana",
+    "designation": "Physician",
+    "specialize": "Diabetologists",
+    "experience": "Dietitians and Nutritionists",
+    "img": "https://ru.idhospital.com/wp-content/uploads/2018/10/doctor-ji-hyeon-kim-400x400.png"
+  },
+  {
+    "id": "1004",
+    "name": "Dr. Mirza Mim",
+    "designation": "Physician",
+    "specialize": "Endocrinologists",
+    "experience": "Occupational Health and Safety Specialists",
+    "img": "https://pbs.twimg.com/media/E8IURUcXIAIuaIS.jpg"
+  },
+  {
+    "id": "1005",
+    "name": "Dr. Md. Ziaul Karim",
+    "designation": "Physician",
+    "specialize": "Diabetologists",
+    "experience": "special training and experience in treating people with diabetes",
+    "img": "https://nankemhospital.com/wp-content/uploads/2018/11/Dr.Jagjivanaram-400x400.jpg"
+  },
+  {
+    "id": "1006",
+    "name": "Dr. Mehir Afroz Tonny",
+    "designation": "Family practice physician",
+    "specialize": "Endocrinologists",
+    "experience": "Provide care to people of all ages",
+    "img": "https://surecellbd.com/wp-content/uploads/2019/11/meri2020-400x400.jpg"
+  }
+]

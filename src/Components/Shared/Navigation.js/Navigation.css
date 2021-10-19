@@ -1,0 +1,32 @@
+* {
+  font-family: "Righteous", cursive;
+}
+
+.navbar {
+  background-color: #420d09;
+  margin-top: 1rem;
+  /*  height: 7rem; */
+}
+.nav-link {
+  font-size: 32px;
+  color: #ffffff !important;
+}
+.active {
+  color: blueviolet !important;
+}
+
+.slogan {
+  font-family: "ZCOOL KuaiLe", cursive;
+  font-weight: bold;
+  color: #ffffff;
+}
+/* @media (max-width: 768px) {
+  .navbar {
+    margin-top: 0;
+    max-height: 50vh;
+  }
+  .mobile-view {
+    justify-content: space-around !important;
+  }
+}
+ */
