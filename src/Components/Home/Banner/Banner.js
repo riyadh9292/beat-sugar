@@ -4,27 +4,41 @@ import "./Banner.css";
 
 const Banner = () => {
   return (
-    <Carousel className="mt-5 pt-5 h-25">
-      <Carousel.Item interval={1000}>
+    <Carousel fade>
+      <Carousel.Item>
         <img
-          className="d-block img-fluid"
+          className="d-block w-100"
           src="https://i.ibb.co/vYzJnzR/Cartoon-professional-hospital-team-of-doctors.jpg"
           alt="First slide"
         />
+        <Carousel.Caption className="text-dark">
+          <h3>We had 6 specialized doctors</h3>
+          <p>Our doctors are highly experienced.</p>
+        </Carousel.Caption>
       </Carousel.Item>
-      <Carousel.Item interval={1000}>
+      <Carousel.Item>
         <img
-          className="d-block img-fluid"
+          className="d-block w-100"
           src="https://i.ibb.co/4RVVP1T/Group-of-cartoon-doctors-in-masks-1.jpg"
-          alt="second"
+          alt="Second slide"
         />
+
+        <Carousel.Caption className="text-dark">
+          <h3>Health tips</h3>
+          <p>You can get some free health tips in out tips section</p>
+        </Carousel.Caption>
       </Carousel.Item>
-      <Carousel.Item interval={1000}>
+      <Carousel.Item>
         <img
-          className="d-block img-fluid"
+          className="d-block w-100"
           src="https://i.ibb.co/8PBQqHc/2699.jpg"
-          alt="third"
+          alt="Third slide"
         />
+
+        <Carousel.Caption className="text-dark">
+          <h3>There is no off day</h3>
+          <p>We care our patients.</p>
+        </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
   );

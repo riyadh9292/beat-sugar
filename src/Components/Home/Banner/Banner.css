@@ -4,17 +4,10 @@
 
 .carousel-item img {
   position: relative;
-  width: 100vh;
   height: 100vh;
-  display: none;
   width: 100%;
-}
-.carousel-column {
-  height: 500px;
-  width: 900px;
-  margin: 0 auto;
 }
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  background-color: rgb(44, 148, 167);
+  background-color: rgb(133, 30, 17);
 }
